@@ -1,5 +1,8 @@
 %rebase('base.tpl')
-        <h2>CMS development (Word Press)</h2>
+        <div class="exp">
+            
+            
+         <h2>CMS development (Word Press)</h2>
         Developing templates on CMS (Wordpress) modules and integrate them with database.
         Change templates according to customer requirements.
 
@@ -14,3 +17,4 @@
         <h2>NGO Management System</h2>
 
         Part of team responsible for developing NGO management system with features including donors and beneficiaries record, E-office and financial transactions transparency and tracking.
+        </div>
