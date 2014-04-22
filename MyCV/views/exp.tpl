@@ -12,9 +12,9 @@
 
         1.Learning and Educational Institute Management System
 
-        2.Worked as part of a team responsible of creating a complete learning and educational institute management system suitable for managing all academic tasks for universities, schools, colleges etc. 
+        2.Worked as part of a team responsible of creating a complete learning and educational<br/> institute management system suitable for managing all academic tasks for universities, schools, colleges etc. 
 
         <h2>NGO Management System</h2>
 
-        Part of team responsible for developing NGO management system with features including donors and beneficiaries record, E-office and financial transactions transparency and tracking.
+        Part of team responsible for developing NGO management system with features including donors and beneficiaries record, E-office and financial<br/> transactions transparency and tracking.
         </div>
