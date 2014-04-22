@@ -1,0 +1,29 @@
+ 
+from bottle import route , run
+@route('/AliyaZafar')
+def name():
+    return '''
+<html>
+<head>
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<style>
+<body>
+{background-color:#bo43de;}
+</style>
+
+<h1>Aliya Zafar</h1>
+
+
+
+</body>
+'''
+</head>
+
+</html>
+run(host='localhost', port=8080, debug=True)
