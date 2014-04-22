@@ -36,6 +36,12 @@ def exp():
     return {}
 
 
+@route('/Hobbies')
+@view('hobbies')
+def hob():
+    return {}
+
+
 
 
 run(host='localhost', port=8080, debug=True)

@@ -20,6 +20,7 @@
             <li><a href="/Summary">Summery</a></li>
             <li><a href="/Skills">SKills</a></li>
             <li><a href="/Experience">Experience</a></li>
+            <li><a href="/Hobbies">Hobbies</a></li>
         </ol>
         
         {{!base}}
