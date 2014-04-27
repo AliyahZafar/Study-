@@ -2,7 +2,7 @@
         <style>
         table,td,th
         {
-        border:2px solid black;
+        border:double;
         }
         table
         {
@@ -15,6 +15,8 @@
         </style>
         
         <table>
+            <caption><strong>SKills</strong></caption>
+            
             <tr>
                <td>
                     <div style="width: 60%; background:#989DA0; overflow:visible;">
